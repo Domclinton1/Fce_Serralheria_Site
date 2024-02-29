@@ -2313,3 +2313,13 @@ footer {
         width:930px;
     }
 }
+@media screen and (width: 1080px) {
+    .slides img {
+        width: 1080px;
+    }
+}
+@media screen and (width: 600px) {
+    .slides img {
+        width: 600px;
+    }
+}
