@@ -2344,3 +2344,14 @@ footer {
         width:100%;
         max-width: 100%;
 }
+@media screen and (max-width: 360px) {
+    .slides img {
+        width: 100%;
+        max-width: 360px;
+    }
+  }
+  @media screen and (max-width: 375px) {
+    .slides img {
+        width: 100%;
+        max-width: 375px;
+    }
