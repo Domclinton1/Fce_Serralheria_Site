@@ -14,7 +14,7 @@ body {
 .menu {    
     display: flex;
     justify-content: space-around;
-    background-color: gold;
+    background-color: green;
     width: 100%;
     padding: 0 100px 0 100px;
     align-items: center;
